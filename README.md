@@ -1,7 +1,5 @@
 # Upgraded ATM Machine Project
 
-This project is an upgraded version of the [ATM Machine](https://github.com/kishanrajput23/Personal-Python-Projects/tree/master/ATM%20Machine) by kishanrajput23.
-
 ## Improvements Made
 
 1.  **Object-Oriented Programming (OOP)**: Refactored the code into an `ATM` class for better modularity and maintainability.
